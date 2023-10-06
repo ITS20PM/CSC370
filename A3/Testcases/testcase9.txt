@@ -1,2 +1,0 @@
-name	temp	name	temp
-winston county	60.1	monroe county	77.4

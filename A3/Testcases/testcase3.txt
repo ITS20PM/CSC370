@@ -1,4 +1,0 @@
-abbr
-AL
-AR
-AK
